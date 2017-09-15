@@ -1,0 +1,13 @@
+.but-pos{
+    padding: 1%;
+    font-size: 2em;
+    transition-duration: 0.4s;
+    margin: 0 2%;
+}
+.but-pos:hover{
+    /* background-color: lightgrey; */
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.yellow{
+    background-color: yellow;
+}
